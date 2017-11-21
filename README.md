@@ -2,7 +2,7 @@ jquery.currencies.js
 
 ## Tutorial
 
-[How to Show Multiple Currencies](http://wiki.shopify.com/How_to_Show_Multiple_Currencies)
+[How to Show Multiple Currencies](https://help.shopify.com/themes/customization/currencies/show-multiple-currencies)
 
 ## Description
 
